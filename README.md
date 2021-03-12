@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oumkale" alt="devded" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oumnkale/)](https://www.linkedin.com/in/oumnkale/) [![Twitter Badge](https://img.shields.io/badge/-tweets-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/oumkale/)](https://twitter.com/oumkale/) [![Dev Badge](https://img.shields.io/badge/-blogs-blue?style=flat-square&logo=Dev.to&link=https://dev.to/oumkale)](https://dev.to/oumkale)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumkale&theme=material-palenight)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oumkale&show_icons=true&theme=gotham&count_private=true&include_all_commits=true)
