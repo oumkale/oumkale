@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumkale&theme=material-palenight)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oumkale" alt="devded" /> 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oumkale&show_icons=true&theme=gotham&count_private=true&include_all_commits=true)
-
+</p>
