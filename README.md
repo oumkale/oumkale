@@ -22,7 +22,9 @@ Here are some ideas to get you started:
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
    ## :wave: About Me 
-<a href="https://twitter.com/oumkale" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/oumnkale/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://oumkalecoding.medium.com/placement-coding-interview-preparation-for-juniors-fe99184df6ba" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" height="120px" width="120px" alt="Medium" align="right"></a>
+<a href="https://twitter.com/oumkale" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://www.linkedin.com/in/oumnkale/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 Hey! I'm Oum, a 22-year-old software engineer at [**ChaosNative**](https://www.chaosnative.com/) working as a Backend Developer on making leading open source
 project [**LitmusChaos**](https://github.com/litmuschaos) a **CNCF** project. 
 💖 I love Competitive programming, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale).
