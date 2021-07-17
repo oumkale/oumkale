@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/oumkale" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/oumnkale/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 Hey! I'm Oum, a 22-year-old software engineer at [**ChaosNative**](https://www.chaosnative.com/) working as a Backend Developer on making leading open source
 project [**LitmusChaos**](https://github.com/litmuschaos) a **CNCF** project. 
-💖 I love Comparative Coding, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale).
+💖 I love Competitive programming, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale).
 
 :octocat: Worked at [**MayaData**](https://mayadata.io/) on high
 performance, and cloud native solutions also I did my Research Intership at [**IIT Jammu**](https://www.iitjammu.ac.in/)(URIP) project where I worked on Question and Answer assessment using Natural Language Processing. 
