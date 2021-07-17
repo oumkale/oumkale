@@ -24,19 +24,15 @@ Here are some ideas to get you started:
    ## :wave: About Me 
 <a href="https://twitter.com/oumkale" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/oumnkale/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 Hey! I'm Oum, a 22-year-old software engineer at [**ChaosNative**](https://www.chaosnative.com/) working as a Backend Developer on making leading open source
-project [**LitmusChaos**](https://github.com/litmuschaos) a **CNCF** project. 💖 I love Comparative Coding, 4* at  [**CodeChef**](https://www.codechef.com/users/oumkale) 
+project [**LitmusChaos**](https://github.com/litmuschaos) a **CNCF** project. 
+💖 I love Comparative Coding, 4* at  [**CodeChef**](https://www.codechef.com/users/oumkale).
 
-:octocat:! I am working as a Backend Developer on making leading open source
-project LitmusChaos a CNCF project. Chaos testing tool.
-● Working on python and golang k8s clients to create experiments and
-Predefined workflow using argo with Litmus Chaos to test resiliency
-of real life applications using chaos injections.
-● Working on console application or UI experience for managing
-external targets, into the control plane.
+:octocat: Worked at [**MayaData**](https://mayadata.io/) on high
+performance, and cloud native solutions also I did my Research Intership at [**IIT Jammu**](https://www.iitjammu.ac.in/)(URIP) project where I worked on Question and Answer assessment using Natural Language Processing. 
 
  
 
-⚡ Also a Sporty guy [**International Reted Chess Player**](https://ratings.fide.com/profile/25062450)
+⚡ A Sporty guy [**International Reted Chess Player**](https://ratings.fide.com/profile/25062450)
 
 <br> 
 
