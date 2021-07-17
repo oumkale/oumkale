@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://komarev.com/ghpvc/?username=oumkale" alt="devded" /> 
 <h1 align="center">Hey, I'm Oum Kale <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h2 align="center">I'm facinated by the extensive impact computers can have in real world problems!</h2>
+<h2 align="center">I'm facinated by the extensive impact softwares can have in real world problems!</h2>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/oumkale" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/oumnkale/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 Hey! I'm Oum, a 22-year-old software engineer at [**ChaosNative**](https://www.chaosnative.com/) working as a Backend Developer on making leading open source
 project [**LitmusChaos**](https://github.com/litmuschaos) a **CNCF** project. 
-💖 I love Comparative Coding, 4* at  [**CodeChef**](https://www.codechef.com/users/oumkale).
+💖 I love Comparative Coding, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale).
 
 :octocat: Worked at [**MayaData**](https://mayadata.io/) on high
 performance, and cloud native solutions also I did my Research Intership at [**IIT Jammu**](https://www.iitjammu.ac.in/)(URIP) project where I worked on Question and Answer assessment using Natural Language Processing. 
