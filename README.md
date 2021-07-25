@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://komarev.com/ghpvc/?username=oumkale" alt="devded" /> 
 <h1 align="center">Hey, I'm Oum Kale <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h2 align="center">I'm facinated by the extensive impact softwares can have in real world problems!</h2>
+<h2 align="center">I'm facinated by the extensive impact software can have in real world problems!</h2>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
@@ -30,11 +30,11 @@ project [**LitmusChaos**](https://github.com/litmuschaos) a **CNCF** project.
 💖 I love Competitive programming, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale).
 
 :octocat: Worked at [**MayaData**](https://mayadata.io/) on high
-performance, and cloud native solutions also I did my Research Intership at [**IIT Jammu**](https://www.iitjammu.ac.in/)(URIP) project where I worked on Question and Answer assessment using Natural Language Processing. 
+performance and cloud native solutions also did my Research Internship at [**IIT Jammu**](https://www.iitjammu.ac.in/)(URIP) project where I worked on Question and Answer assessment using Natural Language Processing. 
 
  
 
-⚡ A Sporty guy [**International Reted Chess Player**](https://ratings.fide.com/profile/25062450)
+⚡ A Sporty guy [**International Rated Chess Player**](https://ratings.fide.com/profile/25062450)
 
 <br> 
 
@@ -59,4 +59,6 @@ Machine Learning, Apollo GraphQL, k8s clients
    [![Oum's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=oumkale&theme=xcode)](https://git.io/oumkale)
    <br />
  
+
+
 
