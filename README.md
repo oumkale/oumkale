@@ -41,14 +41,17 @@ performance and cloud native solutions also did my Research Internship at [**IIT
 ## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
- C++, Python, Golang, Java, C
+ C++, golang, Python, C, JS, TS, Java
 - 🌐 &nbsp;
-Kubernetes, Docker, Cloud,
+Kubernetes(python and golang client), Docker, Cloud, SRE.
 Chaos engineering, React.js, Django,
-SQL, MongoDB, EKS, GKE,
-NLP, Software Development,
-Back-End Web Development,
-Machine Learning, Apollo GraphQL, k8s clients 
+SQL, MongoDB, EKS, GKE, AKS,
+(Azure, AWS or GCP), Anthos , NLP,
+Software Development, Back-End
+Web Development, Machine
+Learning, Apollo GraphQL client,
+Grafana and Prometheus, DB:
+PostgreSQL.
 <br/>
 
    ![Oum's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oumkale&theme=prussian&show_icons=true&count_private=true)
