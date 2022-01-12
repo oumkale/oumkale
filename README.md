@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://oumkalecoding.medium.com/placement-coding-interview-preparation-for-juniors-fe99184df6ba" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" height="120px" width="120px" alt="Medium" align="right"></a>
 <a href="https://twitter.com/oumkale" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.linkedin.com/in/oumnkale/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Oum, a software engineer - RnD Team at [**JFrog**](https://www.jfrog.com/) working in a Installer team. Also I worked in at [**ChaosNative**](https://www.chaosnative.com/) as a Backend Developer on making leading open source
+Hey! I'm Oum, a Software Engineer - RnD Team at [**JFrog**](https://www.jfrog.com/) working in a Installer team. Also I worked at [**ChaosNative**](https://www.chaosnative.com/) as a Backend Developer on making leading open source
 project [**LitmusChaos**](https://github.com/litmuschaos) a **CNCF** project. 
 💖 I love Competitive programming, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale).
 
