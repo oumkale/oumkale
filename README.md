@@ -63,5 +63,5 @@ PostgreSQL.
    <br />
  
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oumkale&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="oumkale" />
+<!-- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oumkale&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="oumkale" /> -->
 
