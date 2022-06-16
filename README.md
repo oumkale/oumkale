@@ -43,7 +43,7 @@ performance and cloud native solutions also did my Research Internship at [**IIT
 - 💻 &nbsp;
  C++, golang, Python, C, JS, TS, Java
 - 🌐 &nbsp;
-Kubernetes(python and golang client), Docker, Cloud, SRE.
+Kubernetes(python and golang client), Docker, Cloud, Software Engineer.
 Chaos engineering, React.js, Django,
 SQL, MongoDB, EKS, GKE, AKS,
 (Azure, AWS or GCP), Anthos , NLP,
