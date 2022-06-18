@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://komarev.com/ghpvc/?username=oumkale" alt="devded" /> 
 <h1 align="center">Hey, I'm Oum Kale</h1> 
-<h2 align="center">I'm facinated by the extensive impact software can have in real world problems!</h2>
+<h2 align="center">I'm fascinated by the extensive impact software can have in real world problems!</h2>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
