@@ -38,6 +38,8 @@ performance and cloud native solutions also did my Research Internship at [**IIT
 
 <br> 
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="oumnkale" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/oumnkale?trk=profile-badge">OUM KALE</a></div>
+              
 ## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
