@@ -37,9 +37,8 @@ performance and cloud native solutions also did my Research Internship at [**IIT
 ⚡ A Sporty guy [**International Rated Chess Player**](https://ratings.fide.com/profile/25062450)
 
 <br> 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="oumnkale" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/oumnkale?trk=profile-badge">OUM KALE</a></div>
-              
 ## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
