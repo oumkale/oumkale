@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 
-   ## :wave: About Me 
+   ## :wave: About Me
 
 <a href="https://twitter.com/oumkale" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.linkedin.com/in/oumnkale/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 Hey! I'm Oum, <br>
 
-:octocat: A Software Engineer - R&D Team at [**JFrog**](https://www.jfrog.com/) working in a Installer team to build Kubernetes Operator for deployment and management of applications.<br>
+:octocat: A Software Engineer - R&D Team at [**JFrog**](https://www.jfrog.com/) working in a Installer team to build Kubernetes Operator for deployment and management of applications.
+<br>
+
 :octocat: I’m also a Maintainer(Litmus-SDK)/Core-Contributor of a CNCF Incubating project [**LitmusChaos**](https://github.com/litmuschaos) <br>
 I am Maintainer/Reviewer for Repo:
  - CodeOwner/Maintainer - Litmus-Python Repo - k8s python client based experiments
@@ -38,9 +40,7 @@ I am Maintainer/Reviewer for Repo:
  - litmus-e2e Repo - testing of experiments - K8s golang based cases
  - test-tools Repo - Supportive libraries for other repos
  - Tech Stack : Kubernetes, Docker, goland, python, react
-
 :octocat: I love Competitive programming, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale).
-
 :octocat:Did a Research Internship at [**IIT Jammu**](https://www.iitjammu.ac.in/)(URIP) project where I worked on Question and Answer assessment using Natural Language Processing. 
 ⚡ A Sporty guy [**International Rated Chess Player**](https://ratings.fide.com/profile/25062450)
 
