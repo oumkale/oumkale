@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
-   
+
    ## :wave: About Me 
 <a href="https://oumkalecoding.medium.com/placement-coding-interview-preparation-for-juniors-fe99184df6ba" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" height="120px" width="120px" alt="Medium" align="right"></a>
 <a href="https://twitter.com/oumkale" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.linkedin.com/in/oumnkale/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Oum, a Software Engineer - RnD Team at [**JFrog**](https://www.jfrog.com/) working in a Installer team. Also I worked at [**ChaosNative**](https://www.chaosnative.com/) as a Backend Developer on making leading open source
-project [**LitmusChaos**](https://github.com/litmuschaos) a **CNCF** project. 
+Hey! I'm Oum, a Software Engineer - R&D Team at [**JFrog**](https://www.jfrog.com/) working in a Installer team to build Kubernetes Operator for deployment and management of applications.
+I’m also a Maintainer(Litmus-SDK)/Core-Contributor a CNCF Incubating project [**LitmusChaos**](https://github.com/litmuschaos). A Sporty guy International Rated Chess Player
 💖 I love Competitive programming, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale).
 
-:octocat: Worked at [**MayaData**](https://mayadata.io/) on high
-performance and cloud native solutions also did my Research Internship at [**IIT Jammu**](https://www.iitjammu.ac.in/)(URIP) project where I worked on Question and Answer assessment using Natural Language Processing. 
+
+:octocat:Did a Research Internship at [**IIT Jammu**](https://www.iitjammu.ac.in/)(URIP) project where I worked on Question and Answer assessment using Natural Language Processing.
 
  
 
