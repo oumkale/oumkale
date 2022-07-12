@@ -38,6 +38,8 @@ A Software Engineer - R&D Team at [**JFrog**](https://www.jfrog.com/) working in
 
 <br> 
 
+<a href="https://dev.to/oumkale" target="_blank"><img src="https://gist.githubusercontent.com/ccprog/0c300e61f7618fe5816525a43bdb10ac/raw/ea9450c4518ac66c7206f6e8ea23468f795a949c/dev-badge.svg" height="120px" width="120px" alt="Medium" align="right"></a>
+
 <a href="https://oumkalecoding.medium.com/placement-coding-interview-preparation-for-juniors-fe99184df6ba" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" height="120px" width="120px" alt="Medium" align="right"></a>
 
 ## 🛠 &nbsp;Tech Stack
