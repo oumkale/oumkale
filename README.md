@@ -40,12 +40,14 @@ I am Maintainer/Reviewer for Repo:
  - test-tools Repo - Supportive libraries for other repos
  - Tech Stack : Kubernetes, Docker, goland, python, react
 <br>
-:octocat: I love Competitive programming, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale)
+
+:octocat: I love Competitive programming, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale).
 <br>
-:octocat:Did a Research Internship at [IIT Jammu](https://www.iitjammu.ac.in/) (URIP) project where I worked on Question and Answer assessment using Natural Language Processing. <br>
+
+:octocat:Did a Research Internship at [**IIT Jammu**](https://www.iitjammu.ac.in/)(URIP) project where I worked on Question and Answer assessment using Natural Language Processing. <br>
 ⚡ A Sporty guy [**International Rated Chess Player**](https://ratings.fide.com/profile/25062450)
 
-<br> 
+<br>
 
 <a href="https://dev.to/oumkale" target="_blank"><img src="https://gist.githubusercontent.com/ccprog/0c300e61f7618fe5816525a43bdb10ac/raw/ea9450c4518ac66c7206f6e8ea23468f795a949c/dev-badge.svg" height="120px" width="120px" alt="Medium" align="right"></a>
 
