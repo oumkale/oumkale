@@ -42,7 +42,7 @@ I am Maintainer/Reviewer for Repo:
 <br>
 :octocat: I love Competitive programming, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale).
 <br>
-:octocat:Did a Research Internship at [**IIT Jammu**](https://www.iitjammu.ac.in/)(URIP) project where I worked on Question and Answer assessment using Natural Language Processing.
+:octocat:Did a Research Internship at [**IIT Jammu**](https://www.iitjammu.ac.in/)(URIP) project where I worked on Question and Answer assessment using Natural Language Processing. <br>
 ⚡ A Sporty guy [**International Rated Chess Player**](https://ratings.fide.com/profile/25062450)
 
 <br> 
