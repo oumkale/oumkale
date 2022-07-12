@@ -39,10 +39,8 @@ I am Maintainer/Reviewer for Repo:
  - litmus-e2e Repo - testing of experiments - K8s golang based cases
  - test-tools Repo - Supportive libraries for other repos
  - Tech Stack : Kubernetes, Docker, goland, python, react
-<br>
 
 :octocat: I love Competitive programming, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale).
-<br>
 
 :octocat:Did a Research Internship at [**IIT Jammu**](https://www.iitjammu.ac.in/)(URIP) project where I worked on Question and Answer assessment using Natural Language Processing. <br>
 ⚡ A Sporty guy [**International Rated Chess Player**](https://ratings.fide.com/profile/25062450)
