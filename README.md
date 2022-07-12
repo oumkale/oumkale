@@ -46,10 +46,10 @@ A Software Engineer - R&D Team at [**JFrog**](https://www.jfrog.com/) working in
  C++, golang, Python, C, JS, TS, Java
 - 🌐 &nbsp;
 Kubernetes, K8s-Operators, Docker, Cloud, Controllers, k8s go/python clients, helm charts, Distribution AKS, EKS, GKE and all, NLP, Software Development, Back-End Web Development, Machine Learning and Psql DB.
-
 <br>
 
  ## Speaker At:
+   - Speaker at [Open Source Summit Latin America 2022](https://events.linuxfoundation.org/open-source-summit-latin-america/) (Upcoming event in Aug)
    - Speaker at [DevOps India meetup](https://jfrog.com/community/cloud-native/devops-india-meetup-06-2022-2/)
    - Speaker at [Docker Community Meetup Bangalore](https://jfrog.com/community/cloud-native/docker-banaglore-meetup-06-2022/)
    - Speaker at [CNCF Container Garage #1 Conf](https://community.cncf.io/events/details/cncf-container-garage-presents-container-garage-1/)
