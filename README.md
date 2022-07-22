@@ -61,7 +61,7 @@ Kubernetes, K8s-Operators, Docker, Cloud, Controllers, k8s go/python clients, he
 
 ## Speaker At:
    - Speaker at [Open Source Summit Latin America 2022](https://events.linuxfoundation.org/open-source-summit-latin-america/) (Upcoming event in Aug)
-   - Speaker at [COSCUP x KCD Taiwan 2022](https://coscup.org/2022/zh-TW/session/W3AE8E)(Upcoming event in July)
+   - Speaker at [COSCUP x KCD Taiwan 2022](https://community.cncf.io/events/details/cncf-kcd-taiwan-presents-coscup-x-kcd-taiwan-2022/)(Upcoming event in July)
    - Speaker at [DevOps India meetup](https://jfrog.com/community/cloud-native/devops-india-meetup-06-2022-2/)
    - Speaker at [Docker Community Meetup Bangalore](https://jfrog.com/community/cloud-native/docker-banaglore-meetup-06-2022/)
    - Speaker at [CNCF Container Garage #1 Conf](https://community.cncf.io/events/details/cncf-container-garage-presents-container-garage-1/)
