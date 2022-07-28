@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hey, I'm Oum Kale</h1> 
 <h2 align="center">I'm fascinated by the extensive impact software can have in real world problems!</h2>
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/oumkale/oumkale/main/CKA-logo-200.svg" height="160px" width="160px"> 
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
+</p>
 
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 
