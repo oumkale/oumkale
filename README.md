@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/oumnkale/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 Hey! I'm Oum, <br>
 
+:octocat: A Software Engineer - Certified Kubernetes Administrator (CKA)[https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/77c4c5c3-f142-4a6d-a52d-756b94075776-kale-oum-nivrathi-a48b533e-20bf-4c1d-ba14-23d94c9e6a2d-certificate.pdf]
+
 :octocat: A Software Engineer - R&D Team at [**JFrog**](https://www.jfrog.com/) working in a Installer team to build Kubernetes Operator for deployment and management of applications.
 
 :octocat: I’m also a Maintainer(Litmus-SDK)/Core-Contributor of a CNCF Incubating project [**LitmusChaos**](https://github.com/litmuschaos) <br>
