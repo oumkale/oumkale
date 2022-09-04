@@ -65,6 +65,7 @@ I am Maintainer/Reviewer for Repo:
 Kubernetes, K8s-Operators, Docker, Cloud, Controllers, k8s go/python clients, helm charts, Distribution AKS, EKS, GKE and all, NLP, Software Development, Back-End Web Development, Machine Learning and Psql DB.
 
 ## Speaker At:
+   - Speaker at [K8s Controller Reconciler Logic in Go](https://community.cncf.io/events/details/cncf-kcd-sri-lanka-presents-kcd-sri-lanka-2022/)
    - Speaker at [Docker Community All Hands](https://jfrog.com/community/cloud-native/lets-deploy-a-containerized-application-docker-community-all-hands/)
    - Speaker at [Open Source Summit Latin America 2022](https://events.linuxfoundation.org/open-source-summit-latin-america/)
    - Speaker at [COSCUP x KCD Taiwan 2022](https://community.cncf.io/events/details/cncf-kcd-taiwan-presents-coscup-x-kcd-taiwan-2022/)
