@@ -36,7 +36,7 @@ Hey! I'm Oum, <br>
 
 :octocat: A Software Engineer - R&D Team at [**JFrog**](https://www.jfrog.com/) working in a Installer team to build Kubernetes Operator for deployment and management of applications.
 
-:octocat: I’m also a Maintainer(Litmus-SDK)/Core-Contributor of a CNCF Incubating project [**LitmusChaos**](https://github.com/litmuschaos) <br>
+:octocat: I’m also a Maintainer(Litmus-SDK)/Member/Reviewer of a CNCF Incubating project [**LitmusChaos**](https://github.com/litmuschaos) <br>
 I am Maintainer/Reviewer for Repo:
  - CodeOwner/Maintainer - Litmus-Python Repo - k8s python client based experiments
  - Chaos Charts Repo - Charts for experiments and workflows
