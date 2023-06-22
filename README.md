@@ -34,9 +34,13 @@ Hey! I'm Oum, <br>
 
 :octocat: Certified Kubernetes Administrator [CKA](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/77c4c5c3-f142-4a6d-a52d-756b94075776-kale-oum-nivrathi-a48b533e-20bf-4c1d-ba14-23d94c9e6a2d-certificate.pdf)
 
+:octocat: Program Committee Member for KubeCon + CloudNativeCon + Open Source Summit China 2023
+
 :octocat: A Software Engineer - R&D Team at [**JFrog**](https://www.jfrog.com/) working in a Installer team to build Kubernetes Operator for deployment and management of applications.
 
-:octocat: I’m also a Maintainer(Litmus-SDK)/Member/Reviewer of a CNCF Incubating project [**LitmusChaos**](https://github.com/litmuschaos) <br>
+:octocat: I’m also a Maintainer of a CNCF Incubating project [**LitmusChaos**](https://github.com/litmuschaos) <br>
+Ref : https://github.com/litmuschaos/litmus/blob/master/MAINTAINERS.md?plain=1#L27
+
 I am Maintainer/Reviewer for Repo:
  - CodeOwner/Maintainer - Litmus-Python Repo - k8s python client based experiments
  - Chaos Charts Repo - Charts for experiments and workflows
@@ -67,6 +71,7 @@ I am Maintainer/Reviewer for Repo:
 Kubernetes, K8s-Operators, Docker, Cloud, Controllers, k8s go/python clients, helm charts, Distribution AKS, EKS, GKE and all, NLP, Software Development, Back-End Web Development, Machine Learning and Psql DB.
 
 ## Speaker At:
+   - Speaker at [Cloud Native London](https://www.youtube.com/live/Xx8npd2TQJ0?feature=share)
    - Speaker at [Kubernetes Community Days Sri Lanka](https://community.cncf.io/events/details/cncf-kcd-sri-lanka-presents-kcd-sri-lanka-2022/)
    - Speaker at [Docker Community All Hands #6](https://jfrog.com/community/cloud-native/lets-deploy-a-containerized-application-docker-community-all-hands/)
    - Speaker at [Open Source Summit Latin America 2022](https://events.linuxfoundation.org/open-source-summit-latin-america/)
