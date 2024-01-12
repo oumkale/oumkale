@@ -85,8 +85,6 @@ Kubernetes, K8s-Operators, Docker, Cloud, Controllers, k8s go/python clients, he
    - Speaker at KIIT Expo Conf 2021
 <br/>
 
-   ![Oum's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oumkale&theme=prussian&show_icons=true&count_private=true)
-
    <br />
    <br />
    <br />
