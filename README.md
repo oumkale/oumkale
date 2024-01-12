@@ -90,7 +90,6 @@ Kubernetes, K8s-Operators, Docker, Cloud, Controllers, k8s go/python clients, he
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oumkale&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
-   [![Oum's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=oumkale&theme=xcode)](https://git.io/oumkale)
    <br />
 
 
