@@ -34,7 +34,7 @@ Hey! I'm Oum, <br>
 
 :octocat: Certified Kubernetes Administrator [CKA](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/77c4c5c3-f142-4a6d-a52d-756b94075776-kale-oum-nivrathi-a48b533e-20bf-4c1d-ba14-23d94c9e6a2d-certificate.pdf)
 
-:octocat: Program Committee Member for KubeCon + CloudNativeCon + Open Source Summit China 2023
+:octocat: Program Committee Member for KubeCon + CloudNativeCon North America, Europe, China & India 2023/2024.
 
 :octocat: A Software Engineer - R&D Team at [**JFrog**](https://www.jfrog.com/) working in a Installer team to build Kubernetes Operator for deployment and management of applications.
 
