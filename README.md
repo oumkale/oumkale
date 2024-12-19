@@ -39,7 +39,7 @@ Hey! I'm Oum, <br>
 :octocat: A Software Engineer - R&D Team at [**JFrog**](https://www.jfrog.com/) working in a Installer team to build Kubernetes Operator for deployment and management of applications.
 
 :octocat: I’m also a Maintainer of a CNCF Incubating project [**LitmusChaos**](https://github.com/litmuschaos) <br>
-Ref : https://github.com/litmuschaos/litmus/blob/master/MAINTAINERS.md?plain=1#L28
+Ref : https://github.com/litmuschaos/litmus/blob/master/MAINTAINERS.md?plain=1#L27
 
 I am Maintainer/Reviewer for Repo:
  - CodeOwner/Maintainer - Litmus-Python Repo - k8s python client based experiments
@@ -49,7 +49,7 @@ I am Maintainer/Reviewer for Repo:
  - litmus-go / scheduler / runner Repo - K8s golang client based experiments work
  - litmus-e2e Repo - testing of experiments - K8s golang based cases
  - test-tools Repo - Supportive libraries for other repos
- - Tech Stack : Kubernetes, Docker, goland, python, react
+ - Tech Stack : Kubernetes, Docker, golang, python, react
 
 :octocat: I love Competitive programming, 4* at *CodeChef* my [**Profile**](https://www.codechef.com/users/oumkale).
 
